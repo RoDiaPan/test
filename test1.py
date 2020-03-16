@@ -1,0 +1,2 @@
+name = "RoDia"
+print(name)
